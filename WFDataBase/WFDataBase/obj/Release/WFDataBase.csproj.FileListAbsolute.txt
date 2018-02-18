@@ -1,0 +1,13 @@
+E:\WindowsApp\WFDataBase\WFDataBase\bin\Release\Database2.mdf
+E:\WindowsApp\WFDataBase\WFDataBase\bin\Release\Database2_log.ldf
+E:\WindowsApp\WFDataBase\WFDataBase\bin\Release\WFDataBase.exe.config
+E:\WindowsApp\WFDataBase\WFDataBase\bin\Release\WFDataBase.exe
+E:\WindowsApp\WFDataBase\WFDataBase\bin\Release\WFDataBase.pdb
+E:\WindowsApp\WFDataBase\WFDataBase\obj\Release\WFDataBase.csprojResolveAssemblyReference.cache
+E:\WindowsApp\WFDataBase\WFDataBase\obj\Release\WFDataBase.csproj.ResolveComReference.cache
+E:\WindowsApp\WFDataBase\WFDataBase\obj\Release\WFDataBase.Form1.resources
+E:\WindowsApp\WFDataBase\WFDataBase\obj\Release\WFDataBase.Properties.Resources.resources
+E:\WindowsApp\WFDataBase\WFDataBase\obj\Release\WFDataBase.csproj.GenerateResource.Cache
+E:\WindowsApp\WFDataBase\WFDataBase\obj\Release\WFDataBase.csproj.CoreCompileInputs.cache
+E:\WindowsApp\WFDataBase\WFDataBase\obj\Release\WFDataBase.exe
+E:\WindowsApp\WFDataBase\WFDataBase\obj\Release\WFDataBase.pdb
